@@ -15,7 +15,7 @@
 
 /* Global Styles */
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
 }
@@ -583,4 +583,5 @@ html {
     backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.3);
     animation: pulse 2s infinite;
+
 }
